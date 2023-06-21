@@ -25,7 +25,7 @@
         {color}：显示颜色
         {repo}：ApacheCN 的 Github 仓库名称
 
-    asset/docsify-apachecn-footer.js
+    asset/docsify-flygon-footer.js
     
         {repo}：ApacheCN 的 Github 仓库名称
 -->
@@ -38,7 +38,7 @@
 > 
 > 以斗争求团结则团结存，以妥协求团结则团结亡。——教员
 
-* [在线阅读](https://{domain}.apachecn.org)
+* [在线阅读](https://{domain}.flygon.net)
 ## 下载
 
 ### Docker
